@@ -1,0 +1,1 @@
+{1: {'Nombre': 'Eli', 'Apellido': 'Santolaya', 'Dirección': 'Logroño', 'Email': 'eli@gmail.com', 'Telefono': 123456789}, 2: {'Nombre': 'Adi', 'Apellido': 'TTM', 'Dirección': 'Logroño', 'Email': 'adi@gmail.com', 'Telefono': 123456789}, 3: {'Nombre': 'JR', 'Apellido': 'KJ', 'Dirección': 'Logroño', 'Email': 'jr@gmail.com', 'Telefono': 123456789}}
